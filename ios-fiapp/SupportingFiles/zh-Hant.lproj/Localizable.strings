@@ -1,0 +1,17 @@
+
+// Authentication
+"Password" = "Password";
+"Email" = "Email";
+"SignIn" = "Sign In";
+"ForgetYourPassword?" = "Forget your password?";
+"OrSignInWith" = "Or sign in with:";
+"WrongCredentials" = "Wrong credentials";
+
+// Tab Bar Item
+"Sales" = "Sales";
+
+// Error
+"Error" = "Error";
+
+// Common
+"OK" = "OK";
